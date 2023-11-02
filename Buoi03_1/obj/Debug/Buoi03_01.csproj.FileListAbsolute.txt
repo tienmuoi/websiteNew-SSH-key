@@ -1,0 +1,11 @@
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\obj\Debug\Buoi03_01.csproj.AssemblyReference.cache
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\obj\Debug\Buoi03_01.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\obj\Debug\Bai03_1.Form1.resources
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\obj\Debug\Buoi03_1.Properties.Resources.resources
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\obj\Debug\Buoi03_01.csproj.GenerateResource.cache
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\obj\Debug\Buoi03_01.csproj.CoreCompileInputs.cache
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\bin\Debug\Buoi03_1.exe.config
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\bin\Debug\Buoi03_1.exe
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\bin\Debug\Buoi03_1.pdb
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\obj\Debug\Buoi03_1.exe
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi03_1\obj\Debug\Buoi03_1.pdb

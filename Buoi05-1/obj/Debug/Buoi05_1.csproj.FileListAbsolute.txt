@@ -1,0 +1,11 @@
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\bin\Debug\Buoi05-1.exe.config
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\bin\Debug\Buoi05-1.exe
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\bin\Debug\Buoi05-1.pdb
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\obj\Debug\Buoi05_1.csproj.AssemblyReference.cache
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\obj\Debug\Buoi05_1.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\obj\Debug\Buoi05_1.Form1.resources
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\obj\Debug\Buoi05_1.Properties.Resources.resources
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\obj\Debug\Buoi05_1.csproj.GenerateResource.cache
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\obj\Debug\Buoi05_1.csproj.CoreCompileInputs.cache
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\obj\Debug\Buoi05-1.exe
+D:\Workspace\WED\C#\hangoctien_2121110200\Buoi05-1\obj\Debug\Buoi05-1.pdb

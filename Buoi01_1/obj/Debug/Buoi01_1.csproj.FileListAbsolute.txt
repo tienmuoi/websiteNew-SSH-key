@@ -1,0 +1,8 @@
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi01_1\bin\Debug\Buoi01_1.exe.config
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi01_1\bin\Debug\Buoi01_1.exe
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi01_1\bin\Debug\Buoi01_1.pdb
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi01_1\obj\Debug\Buoi01_1.csproj.AssemblyReference.cache
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi01_1\obj\Debug\Buoi01_1.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi01_1\obj\Debug\Buoi01_1.csproj.CoreCompileInputs.cache
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi01_1\obj\Debug\Buoi01_1.exe
+D:\Workspace\WED\C#\HaNgoctien_2121110200\Buoi01_1\obj\Debug\Buoi01_1.pdb
